@@ -1,0 +1,21 @@
+{
+    "name": "eilanden",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "gamePad": "github:dfrobot/pxt-gamepad#418e2b212023d0a5eee9d0f73b3f2631ea0047aa"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
